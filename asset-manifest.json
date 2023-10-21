@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/payamx/weather/static/css/main.1ae2fdad.css",
-    "main.js": "/payamx/weather/static/js/main.f18b0596.js",
+    "main.js": "/payamx/weather/static/js/main.8c6f83c1.js",
     "index.html": "/payamx/weather/index.html",
     "main.1ae2fdad.css.map": "/payamx/weather/static/css/main.1ae2fdad.css.map",
-    "main.f18b0596.js.map": "/payamx/weather/static/js/main.f18b0596.js.map"
+    "main.8c6f83c1.js.map": "/payamx/weather/static/js/main.8c6f83c1.js.map"
   },
   "entrypoints": [
     "static/css/main.1ae2fdad.css",
-    "static/js/main.f18b0596.js"
+    "static/js/main.8c6f83c1.js"
   ]
 }
