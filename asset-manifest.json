@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payamx/weather/static/css/main.1ae2fdad.css",
+    "main.js": "/payamx/weather/static/js/main.f18b0596.js",
+    "index.html": "/payamx/weather/index.html",
+    "main.1ae2fdad.css.map": "/payamx/weather/static/css/main.1ae2fdad.css.map",
+    "main.f18b0596.js.map": "/payamx/weather/static/js/main.f18b0596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ae2fdad.css",
+    "static/js/main.f18b0596.js"
+  ]
+}
