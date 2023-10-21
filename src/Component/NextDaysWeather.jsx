@@ -1,7 +1,5 @@
 import React from 'react';
 import {Box, Divider} from "@mui/material";
-import {toFa} from "./toFarsi";
-import {color, display} from "@mui/system";
 import Stack from "@mui/material/Stack";
 import {styled, useTheme} from "@mui/material/styles";
 

@@ -1,5 +1,4 @@
 import React, {useEffect} from 'react';
-// let weatherCondition;
 
 export const RainEffectComponent = ({weatherCondition}) => {
 

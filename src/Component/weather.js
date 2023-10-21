@@ -1,6 +1,5 @@
 import React, {useState, useEffect, useMemo} from 'react';
 import axios from 'axios';
-import {toFa} from "./toFarsi";
 import {Box} from "@mui/material";
 import {defaultImages, mapping} from "../background_mapping";
 import {styled} from '@mui/material/styles';
@@ -8,7 +7,6 @@ import Search from "./Search";
 import TodayWeather from "./TodayWeather";
 import NextDaysWeather from "./NextDaysWeather";
 import {useTheme} from '@mui/material/styles';
-import debounce from "lodash.debounce";
 import {RainEffectComponent} from "./RainDrop";
 import Errorpage from "./Errorpage";
 
