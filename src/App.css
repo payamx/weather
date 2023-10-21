@@ -1,6 +1,52 @@
 .App {
   text-align: center;
 }
+.raindrop {
+  position: absolute;
+  width: 2px;
+  height: 25px;
+  background-color: cyan;
+  animation: fall 1500ms linear infinite;
+  border-radius: 10px;
+  border: cyan;
+}
+
+@keyframes fall {
+  0% {
+    transform: translateY(-100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(100vh);
+    opacity: 1;
+  }
+}
+
+
+.snowflake {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background-color: #fff;
+  border-radius: 50%;
+  animation: snowfall 8s linear infinite;
+  pointer-events: none;
+
+
+}
+
+@keyframes snowfall {
+  0% {
+    transform: translateY(-100px) rotate(0deg);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(100vh) rotate(360deg);
+    opacity: 1;
+  }
+}
+
+
 
 .App-logo {
   height: 40vmin;
